@@ -67,7 +67,7 @@ https://revominds.github.io/Blog-Website-Frontend/
 
 ## 🎨 Design Highlights
 
-- Modern dark user interface
+- Modern user interface
 - Elegant typography
 - Interactive hover effects
 - Clean dashboard design
