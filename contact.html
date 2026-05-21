@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <!-- seo basics
+————————————————————————————————————————————-->
+   <meta name="description" content="Explore modern blogs on technology, fashion, food, wildlife, lifestyle, 
+      and digital trends with engaging articles, insights, and creative content from Revominds.">
+   <meta name="keywords" content="Modern Blog, Technology, Fashion, Food, Wildlife, 
+      Lifestyle, Digital Trends, Blogging, Tech News, Creative Content, Revominds">
+   <meta name="author" content="Revominds">
+
+   <!-- browser compatibility
+————————————————————————————————————————————-->
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+   <link rel="icon" href="./assets/images/icon.png">
+
+   <title>Contact - Responsive Multi-page Blog Website</title>
+
+   <!-- vendor css
+————————————————————————————————————————————-->
+   <link rel="stylesheet" href="./assets/fontawesome/all.min.css">
+
+   <!-- custom css
+————————————————————————————————————————————-->
+   <link rel="stylesheet" href="./assets/css/styles.css">
+
+</head>
+
+<body>
+
+
+   <nav>
+      <div class="container nav__container">
+         <a href="index.html" class="nav__logo">rBLOG</a>
+         <ul class="nav__items">
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="about.html">about</a></li>
+            <li><a href="services.html">services</a></li>
+            <li><a href="contact.html">contact</a></li>
+            <li><a href="signin.html">signin</a></li>
+
+            <li class="nav__profile">
+               <div class="avatar">
+                  <img src="./assets/images/avatar1.jpg">
+               </div>
+               <ul>
+                  <li><a href="dashboard.html">dashboard</a></li>
+                  <li><a href="logout.html">logout</a></li>
+               </ul>
+            </li>
+
+         </ul>
+
+         <button class="open__nav-btn"><i class="fas fa-bars"></i>
+         </button>
+         <button class="close__nav-btn"><i class="fas fa-times"></i>
+         </button>
+
+      </div>
+   </nav>
+
+   <!-- END OF NAVBAR
+————————————————————————————————————————————-->
+
+   <section class="empty__page">
+      <h1>Contact Page</h1>
+   </section>
+
+   <!-- END OF EMPTY PAGE
+————————————————————————————————————————————-->
+
+
+
+   <footer>
+      <div class="footer__socials">
+         <a href="https://youtube.com/" target="_blank">
+            <i class="fab fa-youtube"></i>
+         </a>
+         <a href="https://twitter.com/" target="_blank">
+            <i class="fab fa-twitter"></i>
+         </a>
+         <a href="https://github.com/revominds" target="_blank">
+            <i class="fab fa-github"></i>
+         </a>
+         <a href="https://facebook.com/" target="_blank">
+            <i class="fab fa-facebook"></i>
+         </a>
+         <a href="https://linkedin.com/in/revominds" target="_blank">
+            <i class="fab fa-linkedin"></i>
+         </a>
+      </div>
+
+      <div class="container footer__container">
+         <article>
+            <h4>Categories</h4>
+            <ul>
+               <li><a href="">Art</a></li>
+               <li><a href="">Travel</a></li>
+               <li><a href="">Technology</a></li>
+               <li><a href="">Wild Life</a></li>
+               <li><a href="">Music</a></li>
+               <li><a href="">Food</a></li>
+            </ul>
+         </article>
+         <article>
+            <h4>Support</h4>
+            <ul>
+               <li><a href="">Online Support</a></li>
+               <li><a href="">Call Numbers</a></li>
+               <li><a href="">Email</a></li>
+               <li><a href="">Social Support</a></li>
+               <li><a href="">Location</a></li>
+            </ul>
+         </article>
+         <article>
+            <h4>Blog</h4>
+            <ul>
+               <li><a href="">Safety</a></li>
+               <li><a href="">Recent</a></li>
+               <li><a href="">Popular</a></li>
+               <li><a href="">Trending</a></li>
+               <li><a href="">Repair</a></li>
+            </ul>
+         </article>
+         <article>
+            <h4>Permalinks</h4>
+            <ul>
+               <li><a href="index.html">Home</a></li>
+               <li><a href="blog.html">Blog</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="services.html">Services</a></li>
+               <li><a href="contact.html">Contact</a></li>
+            </ul>
+         </article>
+      </div>
+
+      <div class="footer__copyright">
+         <small style="display: flex;">
+            Copyright &copy; Revominds @<p id="year"></p>
+         </small>
+      </div>
+   </footer>
+
+   <script>
+      const currentYear = new Date().getFullYear();
+      const year = document.getElementById("year");
+      year.innerHTML = currentYear; 
+   </script>
+
+
+   <!-- vendor js
+————————————————————————————————————————————-->
+   <script src="./assets/fontawesome/all.min.js"></script>
+
+   <!-- custom js
+————————————————————————————————————————————-->
+   <script src="./assets/js/load.js"></script>
+   <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
