@@ -1,7 +1,6 @@
 # Modern Blog Website
 
 > A clean, responsive, and modern frontend blog website built using HTML, CSS, and JavaScript.
-
 > This project features a stylish dark-themed user interface, responsive layouts, blog management pages, category management pages, authentication pages, and a modern admin dashboard.
 
 ---
