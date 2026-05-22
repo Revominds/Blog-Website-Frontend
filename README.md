@@ -8,8 +8,7 @@
 
 ## 🌐 Live Website
 
-🔗 Live Demo:  
-https://revominds.github.io/Blog-Website-Frontend/
+🔗 Live Demo: <https://revominds.github.io/Blog-Website-Frontend/>
 
 ---
 
@@ -44,24 +43,24 @@ https://revominds.github.io/Blog-Website-Frontend/
 
 ## 📂 Website Pages
 
-| Page            | Live Link                                                              |
-| --------------- | ---------------------------------------------------------------------- |
-| Homepage        | https://revominds.github.io/Blog-Website-Frontend/                     |
-| Dashboard       | https://revominds.github.io/Blog-Website-Frontend/dashboard.html       |
-| About           | https://revominds.github.io/Blog-Website-Frontend/about.html           |
-| Add Category    | https://revominds.github.io/Blog-Website-Frontend/add-category.html    |
-| Edit Category   | https://revominds.github.io/Blog-Website-Frontend/edit-category.html   |
-| Manage Category | https://revominds.github.io/Blog-Website-Frontend/manage-category.html |
-| Add Post        | https://revominds.github.io/Blog-Website-Frontend/add-post.html        |
-| Edit Post       | https://revominds.github.io/Blog-Website-Frontend/edit-post.html       |
-| Blog            | https://revominds.github.io/Blog-Website-Frontend/blog.html            |
-| Category Posts  | https://revominds.github.io/Blog-Website-Frontend/category-posts.html  |
-| Contact         | https://revominds.github.io/Blog-Website-Frontend/contact.html         |
-| Services        | https://revominds.github.io/Blog-Website-Frontend/services.html        |
-| Add User        | https://revominds.github.io/Blog-Website-Frontend/add-user.html        |
-| Edit User       | https://revominds.github.io/Blog-Website-Frontend/edit-user.html       |
-| Sign In         | https://revominds.github.io/Blog-Website-Frontend/signin.html          |
-| Sign Up         | https://revominds.github.io/Blog-Website-Frontend/signup.html          |
+| Page            | Live Link                                                                |
+| --------------- | ------------------------------------------------------------------------ |
+| Homepage        | <https://revominds.github.io/Blog-Website-Frontend/>                     |
+| Dashboard       | <https://revominds.github.io/Blog-Website-Frontend/dashboard.html>       |
+| About           | <https://revominds.github.io/Blog-Website-Frontend/about.html>           |
+| Add Category    | <https://revominds.github.io/Blog-Website-Frontend/add-category.html>    |
+| Edit Category   | <https://revominds.github.io/Blog-Website-Frontend/edit-category.html>   |
+| Manage Category | <https://revominds.github.io/Blog-Website-Frontend/manage-category.html> |
+| Add Post        | <https://revominds.github.io/Blog-Website-Frontend/add-post.html>        |
+| Edit Post       | <https://revominds.github.io/Blog-Website-Frontend/edit-post.html>       |
+| Blog            | <https://revominds.github.io/Blog-Website-Frontend/blog.html>            |
+| Category Posts  | <https://revominds.github.io/Blog-Website-Frontend/category-posts.html>  |
+| Contact         | <https://revominds.github.io/Blog-Website-Frontend/contact.html>         |
+| Services        | <https://revominds.github.io/Blog-Website-Frontend/services.html>        |
+| Add User        | <https://revominds.github.io/Blog-Website-Frontend/add-user.html>        |
+| Edit User       | <https://revominds.github.io/Blog-Website-Frontend/edit-user.html>       |
+| Sign In         | <https://revominds.github.io/Blog-Website-Frontend/signin.html>          |
+| Sign Up         | <https://revominds.github.io/Blog-Website-Frontend/signup.html>          |
 
 ---
 
